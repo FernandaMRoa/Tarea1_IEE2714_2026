@@ -4,7 +4,8 @@
 # Genera todas las figuras del informe en la carpeta figuras/p1/.
 #
 # Uso:
-# La imagen P1_IMG_2402.tif debe estar en la misma carpeta que este script
+# La imagen P1_IMG_2402.tif debe estar en la carpeta "imagenes", ubicada en la
+# misma carpeta que este script (imagenes/P1_IMG_2402.tif).
 # =============================================================================
 
 import os

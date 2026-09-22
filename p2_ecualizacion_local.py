@@ -4,7 +4,8 @@
 # Genera todas las figuras del informe en la carpeta figuras/p2/.
 #
 # Uso:
-# La imagen P2_IMG_2423.tif debe estar en la misma carpeta que este script 
+# La imagen P2_IMG_2423.tif debe estar en la carpeta "imagenes", ubicada en la
+# misma carpeta que este script (imagenes/P2_IMG_2423.tif).
 #
 # Librerias: cv2 se usa unicamente como referencia de CLAHE para las comparaciones.
 # Su codigo no forma parte de la solucion propia. 

@@ -14,7 +14,8 @@
 #  - Se usan las dos matrices CFA reales entregadas por el profesor
 #    (P4_CRW_4866_CFA y P4_IMG_2267_CFA) como demostracion sobre datos reales.
 #
-# Las imagen (P4_CRW_4866_CFA y P4_IMG_2267_CFA) deben estar en la misma carpeta que este script
+# Las imagenes (P4_CRW_4866_CFA y P4_IMG_2267_CFA) deben estar en la carpeta
+# "imagenes", ubicada en la misma carpeta que este script (imagenes/P4_..._CFA.tif).
 #
 # No se usa ninguna funcion externa de debayerizado o demosaicing.
 # =============================================================================

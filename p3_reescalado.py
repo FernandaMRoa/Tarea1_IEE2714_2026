@@ -4,7 +4,8 @@
 # Genera todas las figuras del informe en la carpeta figuras/p3/.
 #
 # Uso:
-# La imagen P3_IMG_2387_crop.tif debe estar en la misma carpeta que este script
+# La imagen P3_IMG_2387_crop.tif debe estar en la carpeta "imagenes", ubicada en
+# la misma carpeta que este script (imagenes/P3_IMG_2387_crop.tif).
 #
 # No se usa ninguna funcion externa de interpolacion ni de reescalado.
 # =============================================================================
